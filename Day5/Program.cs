@@ -28,9 +28,13 @@ namespace Day5
             //Factors p5 = new Factors();
             //p5.run();
 
-            Console.WriteLine("Quotient and Remainder Program");
-            QuotientRemainder p6 = new QuotientRemainder();
-            p6.run();
+            //Console.WriteLine("Quotient and Remainder Program");
+            //QuotientRemainder p6 = new QuotientRemainder();
+            //p6.run();
+
+            Console.WriteLine("Swapping Numbers Program!");
+            Swap p7 = new Swap();
+            p7.run();
 
         }
     }
