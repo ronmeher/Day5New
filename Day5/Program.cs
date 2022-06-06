@@ -16,9 +16,13 @@ namespace Day5
             //LeapYear p2 = new LeapYear();
             //p2.run();
 
-            Console.WriteLine("Power of N Proram!\n");
-            PowerOfN p3 = new PowerOfN();
-            p3.run();
+            //Console.WriteLine("Power of N Proram!\n");
+            //PowerOfN p3 = new PowerOfN();
+            //p3.run();
+
+            Console.WriteLine("Harmonic Number Program!\n");
+            HarmonicNumber p4 = new HarmonicNumber();
+            p4.run();
         }
     }
 }
