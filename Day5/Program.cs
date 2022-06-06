@@ -12,9 +12,13 @@ namespace Day5
             //FlipCoin p1 = new FlipCoin();
             //p1.run();
 
-            Console.WriteLine("\nLeap Year Program!");
-            LeapYear p2 = new LeapYear();
-            p2.run();
+            //Console.WriteLine("\nLeap Year Program!");
+            //LeapYear p2 = new LeapYear();
+            //p2.run();
+
+            Console.WriteLine("Power of N Proram!\n");
+            PowerOfN p3 = new PowerOfN();
+            p3.run();
         }
     }
 }
