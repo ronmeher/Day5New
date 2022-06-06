@@ -32,9 +32,17 @@ namespace Day5
             //QuotientRemainder p6 = new QuotientRemainder();
             //p6.run();
 
-            Console.WriteLine("Swapping Numbers Program!");
-            Swap p7 = new Swap();
-            p7.run();
+            //Console.WriteLine("Swapping Numbers Program!");
+            //Swap p7 = new Swap();
+            //p7.run();
+
+            //Console.WriteLine("Even and Odd Number Program!");
+            //EvenOdd p8 = new EvenOdd();
+            //p8.run();
+
+            Console.WriteLine("Vowel Program!");
+            Vowel p9 = new Vowel();
+            p9.run();
 
         }
     }
