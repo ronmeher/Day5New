@@ -20,9 +20,13 @@ namespace Day5
             //PowerOfN p3 = new PowerOfN();
             //p3.run();
 
-            Console.WriteLine("Harmonic Number Program!\n");
-            HarmonicNumber p4 = new HarmonicNumber();
-            p4.run();
+            //Console.WriteLine("Harmonic Number Program!\n");
+            //HarmonicNumber p4 = new HarmonicNumber();
+            //p4.run();
+
+            Console.WriteLine("Factors Program\n");
+            Factors p5 = new Factors();
+            p5.run();
         }
     }
 }
