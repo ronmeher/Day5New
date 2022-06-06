@@ -8,10 +8,13 @@ namespace Day5
         {
             Console.WriteLine("Day 5 Problems");
 
-            Console.WriteLine("Flip-Coin Problem!");
-            FlipCoin p1 = new FlipCoin();
-            p1.run();
+            //Console.WriteLine("Flip-Coin Problem!");
+            //FlipCoin p1 = new FlipCoin();
+            //p1.run();
 
+            Console.WriteLine("\nLeap Year Program!");
+            LeapYear p2 = new LeapYear();
+            p2.run();
         }
     }
 }
