@@ -7,6 +7,11 @@ namespace Day5
         static void Main(string[] args)
         {
             Console.WriteLine("Day 5 Problems");
+
+            Console.WriteLine("Flip-Coin Problem!");
+            FlipCoin p1 = new FlipCoin();
+            p1.run();
+
         }
     }
 }
