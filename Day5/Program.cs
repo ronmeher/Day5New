@@ -24,9 +24,14 @@ namespace Day5
             //HarmonicNumber p4 = new HarmonicNumber();
             //p4.run();
 
-            Console.WriteLine("Factors Program\n");
-            Factors p5 = new Factors();
-            p5.run();
+            //Console.WriteLine("Factors Program\n");
+            //Factors p5 = new Factors();
+            //p5.run();
+
+            Console.WriteLine("Quotient and Remainder Program");
+            QuotientRemainder p6 = new QuotientRemainder();
+            p6.run();
+
         }
     }
 }
